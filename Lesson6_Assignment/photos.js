@@ -90,7 +90,7 @@ function previewFive () {
   figureCount = 5;
 }// end of previewFive()
 
-//create event listeners for left arrow,right arrpow, and center figure element
+//create event listeners for left arrow,right arrow, and center figure element
 function createEventListeners() {
   var leftarrow = document.getElementById("leftarrow");
   
